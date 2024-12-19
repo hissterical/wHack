@@ -1,0 +1,6 @@
+Using cors for some same origin shit, gotta look into dat for clowd 
+
+
+TODO
+storing passwords in plaintext, gotta fix that
+have email and password as credentials, gotta fix that
